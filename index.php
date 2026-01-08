@@ -5,5 +5,4 @@
 4. change main commeit #2
 5. change main commit #3
 6. create feature-rebase
-7. revert commit #1
 
